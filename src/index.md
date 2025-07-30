@@ -1,0 +1,26 @@
+---
+layout: base
+---
+<!-- Newsletter Signup Form -->
+      <section class="w-100 mw6 center bg-gray pa3 br3">
+        <p class="f6 near-black mb3 mt1">Occasional emails about prints, shows, and things I'm working on.</p>
+        <form action="https://krispayne.us2.list-manage.com/subscribe/post?u=f7e870b0cf6e5b94ed3028b29&amp;id=b734bb5657&amp;f_id=006c1ce0f0" method="post" target="_self" novalidate class="flex flex-wrap">
+        <div aria-hidden="true" style="position: absolute; left: -5000px;">
+            /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */
+            <input type="text" name="b_f7e870b0cf6e5b94ed3028b29_b734bb5657" tabindex="-1" value="">
+        </div>
+        <div hidden=""><input type="hidden" name="tags" value="1938336"></div>
+          <input
+            type="email"
+            name="EMAIL"
+            placeholder="Enter your email"
+            required
+            class="flex-auto pa3 input-reset ba b--moon-gray br3 br--left-ns br--right-0-ns w-100 w-70-ns mb2 mb0-ns"
+          />
+          <input
+            type="submit"
+            value="Subscribe"
+            class="pa3 input-reset bn bg-blue white fw6 pointer br3 br--right-ns br--left-0-ns w-100 w-30-ns"
+          />
+        </form>
+      </section>

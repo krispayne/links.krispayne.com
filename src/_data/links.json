@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "url": "https://www.krispayne.com?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "name": "Portfolio"
+        },
+        {
+            "url": "https://dmpl.io/sandlot?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "name": "Sandlot portrait series wishlist"
+        },
+        {
+            "url": "https://dmpl.io/keepers?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "name": "Keepers portrait series wishlist"
+        },
+        {
+            "url": "https://dmpl.io/paypal-donate?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "name": "Donate"
+        }
+    ]
+}

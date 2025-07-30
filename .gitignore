@@ -1,0 +1,29 @@
+# Node.js dependencies
+node_modules/
+
+# Eleventy output folder (usually _site/)
+_site/
+
+# Eleventy cache (if used)
+.eleventy.js.cache/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+
+# Optional: VSCode settings
+.vscode/
+
+# Optional: dotenv files (if you use environment variables)
+.env
+.env.local
+.env.*
+
+# Netlify deploy folders (if using CLI)
+.netlify/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*

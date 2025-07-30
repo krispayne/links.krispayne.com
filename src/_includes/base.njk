@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kris Payne / Links</title>
+    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css" />
+    <!-- Meta Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '315038586915105');
+      fbq('track', 'PageView');
+      </script>
+      <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=315038586915105&ev=PageView&noscript=1"
+      /></noscript>
+      <!-- End Meta Pixel Code -->
+  </head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1HJBYVB9HC"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-1HJBYVB9HC');
+  </script>
+  <body class="helvetica bg-white black sans-serif pa4 flex flex-column items-center justify-start min-vh-100">
+    
+    <header class="tc mb1">
+        <a href="https://www.krispayne.com?utm_source=bio&utm_medium=dmpl&utm_campaign=profile"><img src="/assets/images/header.jpg" class="w-30-l w-60" /></a>
+    </header>
+    
+    <main class="w-100 mw6">
+      <nav class="flex flex-column items-center">
+        <ul class="list pl0 center w-100">
+          {% for item in links.items %}
+          <li class="mv2"><a href="{{ item.url }}" class="db tc pv3 ba bw1 b--black br3 black link dim">{{ item.name }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    
+    {{ content | safe }}
+
+    </main>
+  </body>
+</html>
