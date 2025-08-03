@@ -1,19 +1,19 @@
 {
     "items": [
         {
-            "url": "/portfolio?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "url": "/portfolio?utm_source=links.krispayne.com&utm_medium=bio-link&utm_campaign=standard",
             "name": "Portfolio"
         },
         {
-            "url": "/sandlot?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "url": "/sandlot?utm_source=links.krispayne.com&utm_medium=bio-link&utm_campaign=standard",
             "name": "Sandlot portrait series wishlist"
         },
         {
-            "url": "/keepers?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "url": "/keepers?utm_source=links.krispayne.com&utm_medium=bio-link&utm_campaign=standard",
             "name": "Keepers portrait series wishlist"
         },
         {
-            "url": "/paypal-donate?utm_source=bio&utm_medium=links&utm_campaign=profile",
+            "url": "/paypal-donate?utm_source=links.krispayne.com&utm_medium=bio-link&utm_campaign=standard",
             "name": "Donate"
         }
     ]
