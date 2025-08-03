@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    {% include "gtm-head.liquid" %}
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="{% if description %}{{ description }}{% else %}{{ site.description }}{% endif %}">
     {% favicons './src/assets/images/favicon.svg' %}
     <title>{{ site.title }}{% if title %} - {{ title }}{% endif %}</title>
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css" />
-    {% include "meta-pixel.liquid" %}
   </head>
-  {% include "google-analytics.liquid" %}
   <body class="helvetica bg-white black sans-serif pa4 flex flex-column items-center justify-start min-vh-100">
-    
+    {% include "gtm-body.liquid" %}
     <header class="tc mb1">
         <a href="https://www.krispayne.com?utm_source=bio&utm_medium=links&utm_campaign=profile"><img src="/assets/images/header.jpg" class="w-30-l w-60" /></a>
     </header>
