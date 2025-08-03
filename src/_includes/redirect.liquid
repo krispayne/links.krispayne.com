@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <meta name="robots" content="noindex" />
+    {%- if link.track_ga -%}{% include "google-analytics.liquid" %}{%- endif -%}
+    {%- if link.track_pixel -%}{% include "meta-pixel.liquid" %}{%- endif -%}
+    <meta http-equiv="refresh" content="0.5;url={{ link.url }}" />
+  </head>
+  <body>
+  </body>
+</html>

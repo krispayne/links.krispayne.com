@@ -1,0 +1,32 @@
+[
+    {
+        "slug": "keepers",
+        "url": "https://www.bnh.com/wish/e3b2756289859c2da01cdd3c01c51991/",
+        "track_ga": true,
+        "track_pixel": true
+    },
+    {
+        "slug": "sandlot",
+        "url": "https://www.bnh.com/wish/5ff11561bba9fed8fcaa7ef5b3d7cc72/",
+        "track_ga": true,
+        "track_pixel": true
+    },
+    {
+        "slug": "portfolio",
+        "url": "https://www.krispayne.com?utm_source=dmpl&utm_medium=links&utm_campaign=profile",
+        "track_ga": true,
+        "track_pixel": true
+    },
+    {
+        "slug": "newsletter",
+        "url": "https://mailchi.mp/087df51edfb5/kris-payne-photography",
+        "track_ga": true,
+        "track_pixel": true
+    },
+    {
+        "slug": "paypal-donate",
+        "url": "https://www.paypal.com/donate/?hosted_button_id=APXS22XCW3HAE",
+        "track_ga": true,
+        "track_pixel": true
+    }
+]
