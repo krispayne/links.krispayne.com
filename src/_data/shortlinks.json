@@ -28,5 +28,11 @@
         "url": "https://www.paypal.com/donate/?hosted_button_id=APXS22XCW3HAE",
         "track_ga": true,
         "track_pixel": true
+    },
+    {
+        "slug": "denali-edition-catalog",
+        "url": "https://www.krispayne.com/catalogs/PortfolioPages-krispayne-20250804152726.pdf",
+        "track_ga": true,
+        "track_pixel": true
     }
 ]
