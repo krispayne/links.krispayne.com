@@ -13,7 +13,7 @@
     },
     {
         "slug": "portfolio",
-        "url": "https://www.krispayne.com?utm_source=links.krispayne.com&utm_medium=short_link&utm_campaign=standard",
+        "url": "https://www.krispayne.com?utm_source=links.krispayne.com&utm_medium=website&utm_campaign=standard",
         "track_ga": true,
         "track_pixel": true
     },
@@ -31,7 +31,7 @@
     },
     {
         "slug": "denali-edition-catalog",
-        "url": "https://www.krispayne.com/catalogs/PortfolioPages-krispayne-20250804152726.pdf?utm_source=links.krispayne.com&utm_medium=short_link&utm_campaign=standard",
+        "url": "https://www.krispayne.com/catalogs/PortfolioPages-krispayne-20250804152726.pdf?utm_source=links.krispayne.com&utm_medium=website&utm_campaign=standard",
         "track_ga": true,
         "track_pixel": true
     }
