@@ -1,26 +1,32 @@
 [
     {
         "slug": "keepers",
-        "url": "https://www.bnh.com/wish/e3b2756289859c2da01cdd3c01c51991/"
+        "url": "https://www.bnh.com/wish/e3b2756289859c2da01cdd3c01c51991/",
+        "name": "Keepers Wishlist"
     },
     {
         "slug": "sandlot",
-        "url": "https://www.bnh.com/wish/5ff11561bba9fed8fcaa7ef5b3d7cc72/"
+        "url": "https://www.bnh.com/wish/5ff11561bba9fed8fcaa7ef5b3d7cc72/",
+        "name": "Sandlot Wishlist"
     },
     {
         "slug": "portfolio",
-        "url": "https://www.krispayne.com?utm_source=links.krispayne.com&utm_medium=referral&utm_campaign=standard"
+        "url": "https://www.krispayne.com?utm_source=links.krispayne.com&utm_medium=referral&utm_campaign=standard",
+        "name": "Portfolio"
     },
     {
         "slug": "newsletter",
-        "url": "https://mailchi.mp/087df51edfb5/kris-payne-photography"
+        "url": "https://mailchi.mp/087df51edfb5/kris-payne-photography",
+        "name": "Newsletter"
     },
     {
         "slug": "paypal-donate",
-        "url": "https://www.paypal.com/donate/?hosted_button_id=APXS22XCW3HAE"
+        "url": "https://www.paypal.com/donate/?hosted_button_id=APXS22XCW3HAE",
+        "name": "Donate"
     },
     {
         "slug": "denali-edition-catalog",
-        "url": "https://www.krispayne.com/catalogs/PortfolioPages-krispayne-20250804225944.pdf?utm_source=links.krispayne.com&utm_medium=referral&utm_campaign=standard"
+        "url": "https://www.krispayne.com/catalogs/PortfolioPages-krispayne-20250804225944.pdf?utm_source=links.krispayne.com&utm_medium=referral&utm_campaign=standard",
+        "name": "Denali Edition Catalog"
     }
 ]
